@@ -1,17 +1,33 @@
-# This is the default new book content for writing a Leanpub book in plain text!
+# Learn just enough INTERNET PROGRAMMING to be dangerous
 
-This repository contains some default content that can be added to a new Leanpub book so you can make your first book preview.
+This book can be used as a course book for the Internet Programming course. It is also suitable for self-study.
 
-Just click "Use this template" on GitHub to create a new repo of your own, with everything set up just like it is here.
+The intended audience is students who have already taken an introductory programming course, so basic programming concepts are not explained in detail. The book is designed to be used in a classroom setting, and each chapter includes exercises that can be used for in-class activities or homework assignments.
 
-At the top level of the repo will be a "manuscript" folder.
+The book assumes that the reader has a basic understanding of programming concepts such as variables, loops, and functions, as well as basics of object-oriented programming. It also assumes basic familiarity with HTML and CSS. It does not go into detail about these topics, but rather focuses on how to use these concepts in the context of web programming.
 
-In the "manuscript" folder, you will see a file called "Book.txt". The files listed in the "Book.txt" file are the ones that will be used to generate your book.
+The book covers the following topics:
 
-In this default content repo, the two files listed in "Book.txt" are the "chapter1.txt" and "chapter2.txt" files currently in the "manuscript" folder.
+- Introduction to the Internet and Web Programming
+- Getting Started with JavaScript
+- The browser as a development environment
+- Working with the DOM
+- JavaScript functions and control structures
+- Javascript data structures
+- Basics of TypeScript
+- Some advanced TypeScript concepts
+- Asynchronous programming with JavaScript
+- Using web APIs, fetching and manipulating data
+- Object-oriented programming in JavaScript
+- Functional programming in JavaScript
+- Introduction to Angular
+- Using Angular components, templates, and data binding
+- Angular directives and pipes
+- Angular services and dependency injection
+- Angular routing
+- Angular forms
+- Observables and RxJS
+- Using Observables in Angular
+- State management in Angular
 
-Also in the "manuscript" folder, you will see a "resources" folder. Images and other resources are to be placed in this folder.
-
-If you're looking for a tutorial, please select the Getting Started walkthrough for your chosen book writing mode [here](http://help.leanpub.com/en/articles/3088382-quick-walkthroughs-for-getting-started-on-a-leanpub-book) in our [Help Center](http://help.leanpub.com/en), which has hundreds of useful articles for Leanpub authors.
-
-Good luck with all your writing!
+# The book is a work in progress, and new chapters will be added over time. Feedback and suggestions are welcome.
